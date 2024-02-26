@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @JuHaNi654
 - 👀 I’m interested in front-end and back-end development
 
-## Profile views
-<div align="left">
-  <img src="https://profile-counter.glitch.me/JuHaNi654/count.svg?"  />
-</div>
-
 ## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
